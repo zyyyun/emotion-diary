@@ -1,8 +1,12 @@
 {
   "hosting": {
-    "site": "emotion-diary-winterlood",
+    "site": "jyoon-react-project",
     "public": "build",
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
     "rewrites": [
       {
         "source": "**",
